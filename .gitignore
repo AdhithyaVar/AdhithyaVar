@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+preview/
+# the photo is only needed once, to make the ASCII portrait
+*.jpg
+*.jpeg
+Photo.*
