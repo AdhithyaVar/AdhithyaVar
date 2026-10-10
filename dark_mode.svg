@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="933" height="548" viewBox="0 0 933 548" xml:space="preserve" role="img" aria-labelledby="card-title">
-<title id="card-title">adhithya@extremis - GitHub profile card</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="897" height="528" viewBox="0 0 897 528" xml:space="preserve" role="img" aria-labelledby="card-title">
+<title id="card-title">Udhaya Adhithya Varman - GitHub profile card</title>
 <style>
 text{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace;white-space:pre}
 .art{font-size:10px;fill:#b1bac4}
@@ -12,63 +12,64 @@ text{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono','
 .rem{fill:#f85149}
 .head{fill:#ffa657;font-weight:bold}
 </style>
-<rect x="0.5" y="0.5" width="932" height="547" rx="14" fill="#161b22" stroke="#30363d"/>
-<text class="art" x="24" y="61.4" textLength="192.0" lengthAdjust="spacing">                        ........</text>
-<text class="art" x="24" y="73.4" textLength="216.0" lengthAdjust="spacing">                    .::---:::::--::.</text>
-<text class="art" x="24" y="85.4" textLength="234.0" lengthAdjust="spacing">                 .:--:::::::::::::::::.</text>
-<text class="art" x="24" y="97.4" textLength="246.0" lengthAdjust="spacing">               .:-::::::::::::::::::::::.</text>
-<text class="art" x="24" y="109.4" textLength="252.0" lengthAdjust="spacing">              .-::::::----:::::::::::::::.</text>
-<text class="art" x="24" y="121.4" textLength="258.0" lengthAdjust="spacing">             .-::::----------:::::::::::::.</text>
-<text class="art" x="24" y="133.4" textLength="258.0" lengthAdjust="spacing">             -::::::::-----::::::::::::::::</text>
-<text class="art" x="24" y="145.4" textLength="264.0" lengthAdjust="spacing">            .:......................     .:.</text>
-<text class="art" x="24" y="157.4" textLength="258.0" lengthAdjust="spacing">             .%@@@@@@@@@@@@@@@@@@%%%%%%%%%.</text>
-<text class="art" x="24" y="169.4" textLength="258.0" lengthAdjust="spacing">             =@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
-<text class="art" x="24" y="181.4" textLength="258.0" lengthAdjust="spacing">             *@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text>
-<text class="art" x="24" y="193.4" textLength="258.0" lengthAdjust="spacing">             *@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-<text class="art" x="24" y="205.4" textLength="258.0" lengthAdjust="spacing">             *@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text>
-<text class="art" x="24" y="217.4" textLength="258.0" lengthAdjust="spacing">             -@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</text>
-<text class="art" x="24" y="229.4" textLength="258.0" lengthAdjust="spacing">              %@@@@@@@@@@@@@@@@@@@@@@@@@@@.</text>
-<text class="art" x="24" y="241.4" textLength="252.0" lengthAdjust="spacing">              -@@@@@@@@@@@@@@@@@@@@@@%%@@=</text>
-<text class="art" x="24" y="253.4" textLength="246.0" lengthAdjust="spacing">               +@@@@@@@@@@@@@@@@@@@%%%@@*</text>
-<text class="art" x="24" y="265.4" textLength="240.0" lengthAdjust="spacing">                +@@@@@@@@@@@@@@%%%%%%@@*</text>
-<text class="art" x="24" y="277.4" textLength="234.0" lengthAdjust="spacing">                 -%@@@%%%%%%%%%%%%%%@%-</text>
-<text class="art" x="24" y="289.4" textLength="228.0" lengthAdjust="spacing">                   +%@%%%%%%%%%%%%@%+.</text>
-<text class="art" x="24" y="301.4" textLength="210.0" lengthAdjust="spacing">                     +%%%%%%%%%%%%+</text>
-<text class="art" x="24" y="313.4" textLength="210.0" lengthAdjust="spacing">                     -+=++****++=+-</text>
-<text class="art" x="24" y="325.4" textLength="210.0" lengthAdjust="spacing">                     -++++======++=</text>
-<text class="art" x="24" y="337.4" textLength="210.0" lengthAdjust="spacing">                     -+==========+-</text>
-<text class="art" x="24" y="349.4" textLength="240.0" lengthAdjust="spacing">                .-+*#+============+#*=-.</text>
-<text class="art" x="24" y="361.4" textLength="258.0" lengthAdjust="spacing">             :=*#****==============****#*=:</text>
-<text class="art" x="24" y="373.4" textLength="276.0" lengthAdjust="spacing">          .=*****+++*+============+++++++***=.</text>
-<text class="art" x="24" y="385.4" textLength="288.0" lengthAdjust="spacing">        .=*++++++++++++++======+++++++++++++++=.</text>
-<text class="art" x="24" y="397.4" textLength="300.0" lengthAdjust="spacing">      .-=--------------------------------------=-.</text>
-<text class="art" x="24" y="409.4" textLength="306.0" lengthAdjust="spacing">     :=------------------------------------------=:</text>
-<text class="art" x="24" y="421.4" textLength="312.0" lengthAdjust="spacing">    -=----------------------------------------------</text>
-<text class="art" x="24" y="433.4" textLength="324.0" lengthAdjust="spacing">   --------------------------------------------------.</text>
-<text class="art" x="24" y="445.4" textLength="330.0" lengthAdjust="spacing">  ----------------------------------------------------.</text>
-<text class="art" x="24" y="457.4" textLength="330.0" lengthAdjust="spacing"> ------------------------------------------------------</text>
-<text class="art" x="24" y="469.4" textLength="336.0" lengthAdjust="spacing">:------------------------------------------------------:</text>
-<text class="art" x="24" y="481.4" textLength="336.0" lengthAdjust="spacing">--------------------------------------------------------</text>
-<text class="art" x="24" y="493.4" textLength="336.0" lengthAdjust="spacing">--------------------------------------------------------</text>
-<text class="p" x="388.0" y="38.4" textLength="520.8" lengthAdjust="spacing"><tspan class="head">adhithya@extremis</tspan><tspan class="dim"> --------------------------------------------</tspan></text>
-<text class="p" x="388.0" y="58.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">OS</tspan>:<tspan class="dim"> ............................................. </tspan><tspan class="val">Windows 11</tspan></text>
-<text class="p" x="388.0" y="78.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dim"> .......................... </tspan><tspan class="val">4 years, 2 months, 8 days</tspan></text>
-<text class="p" x="388.0" y="98.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Host</tspan>:<tspan class="dim"> .................................. </tspan><tspan class="val">Unizen Technologies</tspan></text>
-<text class="p" x="388.0" y="118.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dim"> .................. </tspan><tspan class="val">AI Engineer (GenAI, ML, Embedded)</tspan></text>
-<text class="p" x="388.0" y="138.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Education</tspan>:<tspan class="dim"> ............ </tspan><tspan class="val">CSE (AI), Sathyabama Institute, 2026</tspan></text>
-<text class="p" x="388.0" y="158.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Stack.AI</tspan>:<tspan class="dim"> .......... </tspan><tspan class="val">LangGraph, FastAPI, ChromaDB, MCP, Groq</tspan></text>
-<text class="p" x="388.0" y="178.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Stack.Ops</tspan>:<tspan class="dim"> .................. </tspan><tspan class="val">Docker, MLflow, GitHub Actions</tspan></text>
-<text class="p" x="388.0" y="218.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dim"> ......................... </tspan><tspan class="val">Python, SQL</tspan></text>
-<text class="p" x="388.0" y="238.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="dim"> ................... </tspan><tspan class="val">YAML, JSON, Markdown</tspan></text>
-<text class="p" x="388.0" y="258.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="dim"> .................................... </tspan><tspan class="val">English</tspan></text>
-<text class="p" x="388.0" y="298.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="dim"> ............. </tspan><tspan class="val">Agentic AI, RAG, MCP servers</tspan></text>
-<text class="p" x="388.0" y="318.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="dim"> ................ </tspan><tspan class="val">Embedded systems, edge ML</tspan></text>
-<text class="p" x="388.0" y="358.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">- </tspan>Contact<tspan class="dim"> ----------------------------------------------------</tspan></text>
-<text class="p" x="388.0" y="378.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="val">your.email@example.com</tspan></text>
-<text class="p" x="388.0" y="398.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dim"> ...................... </tspan><tspan class="val">linkedin.com/in/your-handle</tspan></text>
-<text class="p" x="388.0" y="418.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="dim"> .............................. </tspan><tspan class="val">your-portfolio.dev</tspan></text>
-<text class="p" x="388.0" y="458.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">- </tspan>GitHub Stats<tspan class="dim"> -----------------------------------------------</tspan></text>
-<text class="p" x="388.0" y="478.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ....... </tspan><tspan class="val">--</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="val">--</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="dim"> ............ </tspan><tspan class="val">--</tspan></text>
-<text class="p" x="388.0" y="498.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ....................... </tspan><tspan class="val">--</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dim"> ........ </tspan><tspan class="val">--</tspan></text>
-<text class="p" x="388.0" y="518.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dim"> ................................ </tspan><tspan class="val">--</tspan></text>
+<rect x="0.5" y="0.5" width="896" height="527" rx="14" fill="#161b22" stroke="#30363d"/>
+<text class="art" x="24" y="39.4" textLength="180.0" lengthAdjust="spacing">                          ++**</text>
+<text class="art" x="24" y="51.4" textLength="210.0" lengthAdjust="spacing">                     *++===+*==**=+</text>
+<text class="art" x="24" y="63.4" textLength="246.0" lengthAdjust="spacing">                  =-==-=--:::--:+=-#=+--+</text>
+<text class="art" x="24" y="75.4" textLength="258.0" lengthAdjust="spacing">               *+=----:---:::---:-==---:--=</text>
+<text class="art" x="24" y="87.4" textLength="270.0" lengthAdjust="spacing">             *+:--==--::--------:---------:-=</text>
+<text class="art" x="24" y="99.4" textLength="282.0" lengthAdjust="spacing">           ++--------==:-=::-=---===-------::-=</text>
+<text class="art" x="24" y="111.4" textLength="300.0" lengthAdjust="spacing">         ++=+=--=----::----:--------==--:-:-:-:-:=</text>
+<text class="art" x="24" y="123.4" textLength="300.0" lengthAdjust="spacing">        +==------==-:::::-:-:::::::-=---------::-+</text>
+<text class="art" x="24" y="135.4" textLength="294.0" lengthAdjust="spacing">       +-+=--:::------:::::-::::::------=------:-</text>
+<text class="art" x="24" y="147.4" textLength="288.0" lengthAdjust="spacing">      =-=+==::----------------=--:::::---------+</text>
+<text class="art" x="24" y="159.4" textLength="288.0" lengthAdjust="spacing">      =--=:--=---====++++++==----=--:::--:::----</text>
+<text class="art" x="24" y="171.4" textLength="288.0" lengthAdjust="spacing">      --=-----===++*####%%%#*+==-:-=+=-:.::::::=</text>
+<text class="art" x="24" y="183.4" textLength="288.0" lengthAdjust="spacing">      =-==---++===+**#%%@@@%###*==:.-+=-:.:--::+</text>
+<text class="art" x="24" y="195.4" textLength="288.0" lengthAdjust="spacing">      =-=:::=***###%%%%@@@@##*++--::.:++-:--:::*</text>
+<text class="art" x="24" y="207.4" textLength="282.0" lengthAdjust="spacing">      =--.=##=:-==+*#@@@@@@@@%#*=-:...=+=:-::.+</text>
+<text class="art" x="24" y="219.4" textLength="276.0" lengthAdjust="spacing">      =-.*@#:=+*+=-:---#%@@@%%%%#%#=..=*--:::-</text>
+<text class="art" x="24" y="231.4" textLength="270.0" lengthAdjust="spacing">      *.:@#+=:::--..:+#%@@##+-.......:+*-::::</text>
+<text class="art" x="24" y="243.4" textLength="270.0" lengthAdjust="spacing">     +*.*#==-:-+:-=+==::==...:::++=-::=#=:::=</text>
+<text class="art" x="24" y="255.4" textLength="264.0" lengthAdjust="spacing">     %#-@#*++*++**=--::=%*..:*#:.=:.:-:*=::=</text>
+<text class="art" x="24" y="267.4" textLength="258.0" lengthAdjust="spacing">    #%%=@%######***#**+%@*....:+:......:..*</text>
+<text class="art" x="24" y="279.4" textLength="258.0" lengthAdjust="spacing">    **@=@%*#%%%%#%%%*#@@@%-.+=::-==--::...:</text>
+<text class="art" x="24" y="291.4" textLength="258.0" lengthAdjust="spacing">    +#+.*%**#%%@@@@#%**%@#++=%#*++++=-=...=</text>
+<text class="art" x="24" y="303.4" textLength="258.0" lengthAdjust="spacing">     %%--#####%@@@%%##%#*-*#-%@%##*++-..**#</text>
+<text class="art" x="24" y="315.4" textLength="252.0" lengthAdjust="spacing">      @+.=**###+:.-=====#..:-#%%#*+=:...%=</text>
+<text class="art" x="24" y="327.4" textLength="252.0" lengthAdjust="spacing">        .:+++#*:*=------::::..-++=-.....-=</text>
+<text class="art" x="24" y="339.4" textLength="240.0" lengthAdjust="spacing">        --=*+*%%#%*+%@%#*=...=:::.......</text>
+<text class="art" x="24" y="351.4" textLength="228.0" lengthAdjust="spacing">         #-==+****##=-+===-==**=..-:==</text>
+<text class="art" x="24" y="363.4" textLength="210.0" lengthAdjust="spacing">         =+=:=*###%%%*=***++==::=+=</text>
+<text class="art" x="24" y="375.4" textLength="210.0" lengthAdjust="spacing">        **-....*%%@@@@@@%*==--=++=+</text>
+<text class="art" x="24" y="387.4" textLength="204.0" lengthAdjust="spacing">       =#+#+......--=*=+==::-==--+</text>
+<text class="art" x="24" y="399.4" textLength="204.0" lengthAdjust="spacing">     =:*+*#%#:..............:--=+*</text>
+<text class="art" x="24" y="411.4" textLength="210.0" lengthAdjust="spacing">   ::-.*+*#%#+++*#*-:........:-=++:</text>
+<text class="art" x="24" y="423.4" textLength="216.0" lengthAdjust="spacing">  .::-.*###%%%*+*##@@%=.......::-=:-</text>
+<text class="art" x="24" y="435.4" textLength="222.0" lengthAdjust="spacing">    ...+#*#%%%%###***=-:...:-==-::...</text>
+<text class="art" x="24" y="447.4" textLength="228.0" lengthAdjust="spacing">    ...=#***%%%##%%#*+++-=***++-......</text>
+<text class="art" x="24" y="459.4" textLength="240.0" lengthAdjust="spacing">    ...=+++=*###******=--++===-:........</text>
+<text class="art" x="24" y="471.4" textLength="264.0" lengthAdjust="spacing">     .-=++=--==++++==--===---::.............</text>
+<text class="art" x="24" y="483.4" textLength="282.0" lengthAdjust="spacing">     .:--==-::-----::::::..::::................</text>
+<text class="art" x="24" y="495.4" textLength="204.0" lengthAdjust="spacing">     .........::..................</text>
+<text class="p" x="352.0" y="38.4" textLength="520.8" lengthAdjust="spacing"><tspan class="head">Udhaya Adhithya Varman</tspan><tspan class="dim"> ---------------------------------------</tspan></text>
+<text class="p" x="352.0" y="58.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">OS</tspan>:<tspan class="dim"> ............................................. </tspan><tspan class="val">Windows 11</tspan></text>
+<text class="p" x="352.0" y="78.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dim"> ......................... </tspan><tspan class="val">22 years, 0 months, 6 days</tspan></text>
+<text class="p" x="352.0" y="98.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Host</tspan>:<tspan class="dim"> .................................. </tspan><tspan class="val">Unizen Technologies</tspan></text>
+<text class="p" x="352.0" y="118.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dim"> .................. </tspan><tspan class="val">AI Engineer (GenAI, ML, Embedded)</tspan></text>
+<text class="p" x="352.0" y="138.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Education</tspan>:<tspan class="dim"> ............ </tspan><tspan class="val">CSE (AI), Sathyabama Institute, 2026</tspan></text>
+<text class="p" x="352.0" y="158.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Stack.AI</tspan>:<tspan class="dim"> .......... </tspan><tspan class="val">LangGraph, FastAPI, ChromaDB, MCP, Groq</tspan></text>
+<text class="p" x="352.0" y="178.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Stack.Ops</tspan>:<tspan class="dim"> .................. </tspan><tspan class="val">Docker, MLflow, GitHub Actions</tspan></text>
+<text class="p" x="352.0" y="218.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dim"> ......................... </tspan><tspan class="val">Python, SQL</tspan></text>
+<text class="p" x="352.0" y="238.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="dim"> ................... </tspan><tspan class="val">YAML, JSON, Markdown</tspan></text>
+<text class="p" x="352.0" y="258.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="dim"> .................................... </tspan><tspan class="val">English</tspan></text>
+<text class="p" x="352.0" y="298.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="dim"> ............. </tspan><tspan class="val">Agentic AI, RAG, MCP servers</tspan></text>
+<text class="p" x="352.0" y="318.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="dim"> ................ </tspan><tspan class="val">Embedded systems, edge ML</tspan></text>
+<text class="p" x="352.0" y="358.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">- </tspan>Contact<tspan class="dim"> ----------------------------------------------------</tspan></text>
+<text class="p" x="352.0" y="378.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dim"> ............. </tspan><tspan class="val">udhayaadhithyavarman@gmail.com</tspan></text>
+<text class="p" x="352.0" y="398.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dim"> ............. </tspan><tspan class="val">linkedin.com/in/udhayaadhithyavarman</tspan></text>
+<text class="p" x="352.0" y="438.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">- </tspan>GitHub Stats<tspan class="dim"> -----------------------------------------------</tspan></text>
+<text class="p" x="352.0" y="458.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ........ </tspan><tspan class="val">12</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="val">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="dim"> ............. </tspan><tspan class="val">2</tspan></text>
+<text class="p" x="352.0" y="478.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ....................... </tspan><tspan class="val">31</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dim"> ......... </tspan><tspan class="val">1</tspan></text>
+<text class="p" x="352.0" y="498.4" textLength="520.8" lengthAdjust="spacing"><tspan class="dim">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dim"> ........ </tspan><tspan class="val">93,223</tspan> ( <tspan class="add">93,873++</tspan>, <tspan class="rem">650--</tspan> )</text>
 </svg>
