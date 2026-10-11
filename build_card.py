@@ -21,7 +21,7 @@ from html import escape
 from pathlib import Path
 
 import config
-from github_stats import Client, GitHubError, Stats, fetch_stats
+from github_stats import AuthError, Client, GitHubError, Stats, fetch_stats
 
 ROOT = Path(__file__).resolve().parent
 STATS_CACHE = ROOT / "cache" / "stats.json"
@@ -316,9 +316,17 @@ def main(argv=None) -> int:
             token, user = os.environ.get("ACCESS_TOKEN"), os.environ.get("USER_NAME")
             if not (token and user):
                 raise CardError("set ACCESS_TOKEN and USER_NAME for live numbers (or use --offline / --demo)")
-            stats = fetch_stats(Client(token), user, affiliations=config.LOC_AFFILIATIONS,
-                                include_forks=config.LOC_INCLUDE_FORKS, loc_cache=LOC_CACHE,
-                                previous=load_stats())
+            fallback = os.environ.get("FALLBACK_TOKEN")  # the Action's built-in token: public data only
+            options = dict(affiliations=config.LOC_AFFILIATIONS, include_forks=config.LOC_INCLUDE_FORKS,
+                           loc_cache=LOC_CACHE, previous=load_stats())
+            try:
+                stats = fetch_stats(Client(token), user, **options)
+            except AuthError:
+                if not fallback or fallback == token:
+                    raise
+                print("::warning title=ACCESS_TOKEN was refused::using the built-in token instead (public data "
+                      "only). Replace or delete the ACCESS_TOKEN secret.")
+                stats = fetch_stats(Client(fallback), user, **options)
             save_stats(stats)
             out = ROOT
 

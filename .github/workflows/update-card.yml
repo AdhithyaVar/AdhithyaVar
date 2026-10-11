@@ -32,6 +32,7 @@ jobs:
         env:
           # your own token (secret ACCESS_TOKEN) if you added one, otherwise the built-in one, which sees public data only
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          FALLBACK_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # used if ACCESS_TOKEN is refused (revoked, expired)
           USER_NAME: ${{ github.repository_owner }}
         run: python build_card.py
 
