@@ -291,6 +291,13 @@ def save_stats(stats: Stats) -> None:
     STATS_CACHE.write_text(json.dumps(asdict(stats), indent=1) + "\n", encoding="utf-8")
 
 
+def annotate(message: str) -> None:
+    """On GitHub Actions, also show a failure on the run's summary page (the raw log is easy to miss)."""
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        text = " ".join(str(message).split())[:400].replace("%", "%25")
+        print(f"::error title=Profile card build failed::{text}")
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Build the profile card SVGs.")
     mode = ap.add_mutually_exclusive_group()
@@ -330,6 +337,11 @@ def main(argv=None) -> int:
             print(f"wrote {os.path.relpath(target)}  ({w}x{h}px)")
     except (CardError, GitHubError) as exc:
         print(f"error: {exc}", file=sys.stderr)
+        annotate(exc)
+        return 1
+    except Exception as exc:  # noqa: BLE001 - e.g. an answer shaped differently than expected; still say what broke
+        print(f"error: {type(exc).__name__}: {exc}", file=sys.stderr)
+        annotate(f"{type(exc).__name__}: {exc}")
         return 1
     return 0
 

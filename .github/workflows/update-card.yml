@@ -30,7 +30,8 @@ jobs:
 
       - name: Build card
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # your own token (secret ACCESS_TOKEN) if you added one, otherwise the built-in one, which sees public data only
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
         run: python build_card.py
 

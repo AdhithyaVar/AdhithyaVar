@@ -9,7 +9,11 @@ right one for the viewer's light or dark theme.
 1. On GitHub, create a **public** repository named exactly like your username (`<username>/<username>`).
 2. Copy everything in this folder into it and push to `main`.
 
-## 2. Give the Action a token
+## 2. Give the Action a token (optional)
+
+Without a token the Action uses GitHub's built-in one, which sees public repos and public activity only. That is
+all the card needs when your repos are public. Add your own token if you want private repos counted, and never
+paste a token into a chat, an issue or a commit.
 
 1. https://github.com/settings/tokens -> *Generate new token (classic)*. Scopes: `repo`, `read:user`.
    Add `read:org` only if you put `ORGANIZATION_MEMBER` in `LOC_AFFILIATIONS` (config.py).

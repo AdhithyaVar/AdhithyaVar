@@ -141,6 +141,12 @@ class Client:
                     body = resp.json()
                     if body.get("data") is None:
                         raise GitHubError("GraphQL error: " + json.dumps(body.get("errors"))[:300])
+                    if body.get("errors"):
+                        # a partial answer (say, a field this token may not read): report only the kind and the
+                        # field path, never the message, which could name a private repo in a public log
+                        kinds = sorted({f"{e.get('type', '?')} at {'.'.join(map(str, e.get('path') or []))}"
+                                        for e in body["errors"] if isinstance(e, dict)})
+                        print("::warning title=GitHub sent a partial answer::" + "; ".join(kinds)[:300].replace("%", "%25"))
                     return body["data"]
                 problem = f"HTTP {resp.status_code}"
             if attempt < 3:
